@@ -22,7 +22,7 @@ cd Crypter
     ```bash
     cd backend
     ```
-    - rename temp_env.txt to .env to use environment variables
+    - rename `temp_env.txt` to `.env` to use environment variables
 
 2. Install the dependencies:
     ```bash
