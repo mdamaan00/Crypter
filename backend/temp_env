@@ -1,0 +1,4 @@
+MongoDB_URL=mongodb+srv://mdamaan00:1XU3a90pBMpCdFcW@crypter-o.fmbqwaj.mongodb.net/?retryWrites=true&w=majority&appName=crypter-o
+API_KEY=557d6ca1-4576-4984-b904-3c75fbfc48fd
+PORT=8000
+CORS_URL=http://localhost:3000
