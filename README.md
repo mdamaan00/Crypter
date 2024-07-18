@@ -12,7 +12,7 @@ Ensure you have the following installed on your machine:
 
 ### Clone the Repository
 ```bash
-https://github.com/mdamaan00/Crypter.git
+git clone https://github.com/mdamaan00/Crypter.git
 cd Crypter
 ```
 
